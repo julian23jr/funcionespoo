@@ -1,0 +1,17 @@
+// creacion de la fuincion sumar dos numeros en java 
+public class ejemplo {
+
+    // creacion de la funcion 
+
+    public static int sumar(int a, int b) {
+        return a + b ;
+
+    }
+
+    //ejecucion de la funcion suma 
+
+    public static void main(strin[] args) {
+        int resultado = suma (15, 333);
+        system.out.println(resultado);
+    }
+}
